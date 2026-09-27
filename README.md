@@ -25,7 +25,7 @@ The QAOA Ansatz was determined to be the most optimal due to its low percent err
 #### Ground State Energy Convergence <br>
 The two-qubit model was initially run without a transverse magnetic field imposed to ensure proper convergence. Then, simulations with varying field strengths were implemented to determine the accuracy of the VQE while still solving for ground state energies in more complex systems.<br>
 
-IMAGE
+<img width="578" height="455" alt="Figure 15 - gse and vqe with h vary two qubit" src="https://github.com/user-attachments/assets/44be5f98-1110-4747-b6cf-90be3b290e2e" />
 
 While there was still some variation between the VQE and theoretical solution, the general shape is nearly identical.<br>
 
@@ -35,7 +35,9 @@ The model was expanded to solve for the magnetization of the two-qubit model in 
 ### Four-Qubit Ising Model <br>
 #### Ground State Eenrgy Convergence <br>
 The four-qubit Ising model underwent a similar ground-state energy convergence calculation process. However, it was yielding erratic results so an averaged simulation result across five simulations per field strength was utilized as the final result. <br>
-IMAGE
+
+<img width="610" height="455" alt="Figure 20 - 5iters gse vs h 4 qubit" src="https://github.com/user-attachments/assets/4a174bb1-f15b-4b00-9379-605a2c08c1cd" />
+
 
 The variation between the VQE and theoretical ground-state energies varied significantly more. This behaviour is interpreted as the result of a more complex model that utilized a fairly simple algorithm for computation. <br>
 
