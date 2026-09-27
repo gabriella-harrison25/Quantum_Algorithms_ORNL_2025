@@ -53,8 +53,9 @@ The four-qubit model was expanded to solve for the magnetization in the Z-direct
 - Simulate different spin models with varying interactions
 
 ## Files
-*2_Qubit_Ising_Looped_GroundState_Conv_CODE.ipynb* - Python file containing the initial two-qubit model convergence to ground-state energies (code file 1/4 for project) <br>
-*2_Qubit_Ising_Magnetization_CODE.ipynb* - Python file containing two-qubit Ising model where magnetization values determined (code file 2/4 for project)<br>
-*4_Qubit_Ising_Looped_GroundState_Conv_CODE.ipynb* - Python file containing a four-qubit Ising model and investigation into ground-state convergence (code file 3/4 for project) <br>
-*4_Qubit_Ising_Magnetization_CODE.ipynb* - Python file containing four-qubit Ising model where magnetization values determined and investigated (code file 4/4 for project) <br>
-*Variational Quantum Eigensolver Simulations for Multi-Qubit Ising Models - Harrison, Ramjee, NGP (1).pdf* - official ORNL Internship poster product <br>
+- *2_Qubit_Ising_Looped_GroundState_Conv_CODE.ipynb* - Python file containing the initial two-qubit model convergence to ground-state energies (code file 1/4 for project) <br>
+- *2_Qubit_Ising_Magnetization_CODE.ipynb* - Python file containing two-qubit Ising model where magnetization values determined (code file 2/4 for project)<br>
+- *4_Qubit_Ising_Looped_GroundState_Conv_CODE.ipynb* - Python file containing a four-qubit Ising model and investigation into ground-state convergence (code file 3/4 for project) <br>
+- *4_Qubit_Ising_Magnetization_CODE.ipynb* - Python file containing four-qubit Ising model where magnetization values determined and investigated (code file 4/4 for project) <br>
+- *PAPER Variational_Quantum_Eigensolver_Simulations_for_Multi_Qubit_Ising_Models (1).pdf* - paper written as result of ORNL Internship <br>
+- *Variational Quantum Eigensolver Simulations for Multi-Qubit Ising Models - Harrison, Ramjee, NGP (1).pdf* - official ORNL Internship poster product <br>
