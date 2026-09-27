@@ -7,12 +7,13 @@ In the summer of 2025, I completed the Next Generation Pathways to Computing (NG
 1. Examine the use of a variational quantum eigensolver (VQE) through the application to a transverse field Ising model
 2. Compare the accuracy of a VQE to exact diagonzalization solutions and analyze VQE limitations
 <br>
+
 ## Method <br>
 Detailed background required for this project can be found in the paper file in the Github Repo. <br>
-1. Learn Quantum background by completing IBM Basics of Quantum Information Course
-2. Determine most efficient ansatz for VQE and efficient simulations
-3. Analyze a two-qubit Ising model by looking at ground state convergence and magnetization values
-4. Complicate the model to four-qubits, performing similar analyses, to determine limitations of VQE algorithms
+1. Learn Quantum background by completing IBM Basics of Quantum Information Course <br>
+2. Determine most efficient ansatz for VQE and efficient simulations <br> 
+3. Analyze a two-qubit Ising model by looking at ground state convergence and magnetization values <br>
+4. Complicate the model to four-qubits, performing similar analyses, to determine limitations of VQE algorithms <br>
 
 ## Results
 ### Ansatz Comparison <br>
